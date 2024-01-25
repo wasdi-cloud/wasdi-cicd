@@ -1,7 +1,5 @@
 package org.wasdi
 
-class Nexus {
-  static def testSharedFunction() {
-    return 'Hello World'
-  }
+static def testSharedFunction() {
+  return 'Hello World'
 }
